@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 log.txt
 /dir2
+=======
+/dir2/app2.js
+error.txt
+>>>>>>> origin/master
