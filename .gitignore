@@ -1,1 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+log.txt
+/dir2
+=======
+/dir2/app2.js
+>>>>>>> dc2f583a5ad878da3618271492cac75a7e934fc0
 error.txt
+>>>>>>> origin/master
